@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sevovs
-- 👀 I’m interested in ...Pythom
+- 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...projects for Python
 - 📫 How to reach me ... stefan.sevov@gmail.com
